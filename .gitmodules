@@ -1,0 +1,3 @@
+[submodule "virtual-keeyboard"]
+	path = virtual-keeyboard
+	url = https://github.com/WendyAlyssa0/virtual-keeyboard.git
